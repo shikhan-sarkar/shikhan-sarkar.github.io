@@ -349,7 +349,7 @@ a {
     gap: 15px;
 }
 
-@media only screen and (max-width: 1065px) {
+@media only screen and (max-width: 450px) {
     .header {
         display: flex;
         flex-direction: column;
